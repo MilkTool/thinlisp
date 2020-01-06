@@ -1,8 +1,6 @@
-           ThinLisp
-             1.0
+# ThinLisp
 
-  What is it?
-  -----------
+##  What is it?
 
 ThinLisp is an open source Lisp to C translator for delivering commercial
 quality, Lisp-based applications.  It implements a subset of Common Lisp with
@@ -46,36 +44,4 @@ choice.  During it's history programs in the ThinLisp dialect have been
 deployed on over a dozen different platforms.
 
 The copyrights to the ThinLisp sources are held by the ThinLisp Group.
-
-  Contacts
-  --------
-
-Web Site: http://www.thinlisp.org/
-
-See there for all mailing list details, distributions, bug reporting etc.
-
-  Documentation
-  -------------
-
-The documentation is maintained as a set of info files. The
-file src/docs/tl-manual.info is the good starting point.
-
-[[ The doc is not currently deployed on the project website ]]
-
-  Installation
-  ------------
-
-See the INSTALL file in this directory, i.e. the thinlisp-1.0 module.
-
-
-  Licensing
-  ---------
-
-See the LICENSE file in this directory.
-
-
-  Acknowledgments
-  ----------------
-
-[[tbd]]
 
